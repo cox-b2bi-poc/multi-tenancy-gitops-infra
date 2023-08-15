@@ -1,5 +1,5 @@
 resources:
-- ibm-b2bi-psp.yaml
+# - ibm-b2bi-psp.yaml
 - ibm-b2bi-scc.yaml
 - ibm-b2bi-cr.yaml
 - ibm-b2bi-anyuid-cr.yaml

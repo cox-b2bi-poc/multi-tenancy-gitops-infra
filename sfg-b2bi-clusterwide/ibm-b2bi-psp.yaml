@@ -1,4 +1,4 @@
-apiVersion: policy/v2
+apiVersion: v1
 kind: PodSecurityPolicy
 metadata:
   annotations:
